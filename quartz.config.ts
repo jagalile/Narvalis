@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "es-ES",
     baseUrl: "jagalile.github.io/narvalis",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["00_private", "00_templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
