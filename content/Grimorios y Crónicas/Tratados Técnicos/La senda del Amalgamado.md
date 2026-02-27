@@ -1,0 +1,1 @@
+Es un libro prohibido que contiene las técnicas oscuras para alcanzar el poder de un [[Amalgamados|Amalgamado]].
